@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo
 </div>
 ---
 ## ■ About Me
-```yaml name:  education: YOUR DEGREE role: YOUR ROLE
+```yaml name: JOTHIKRISHNA education: YOUR DEGREE role: YOUR ROLE
 focus: - YOUR SKILL - YOUR SKILL - YOUR SKILL
 currently_learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
 mindset: Learn → Build → Share → Improve ```
