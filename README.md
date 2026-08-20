@@ -26,24 +26,24 @@
 ## 🎯 About Me
 
 ```yaml
-name: Jothi Krishna R
-role: Backend & Web Developer
-education: B.E. CSE (CGPA: 8.80) — Al-Ameen Engineering College, Erode
-based_in: Salem, Tamil Nadu, India
+Name: Jothi Krishna R
+Role: Backend & Web Developer
+Education: B.E. CSE (CGPA: 8.80) — Al-Ameen Engineering College, Erode
+Based_in: Salem, Tamil Nadu, India
 
-expertise:
+Expertise:
   - Full-stack web development (Python, Django, JavaScript)
   - Building secure backends with authentication & authorization
   - Designing role-based access control systems
   - Real-time data processing and analytics dashboards
   - Database design and optimization
 
-currently_learning:
+Currently_learning:
   - Advanced Django patterns
   - REST API design best practices
   - Cloud deployment & DevOps
 
-mindset: "Learn → Build → Ship → Improve"
+Mindset: "Learn → Build → Ship → Improve"
 ```
 
 I'm a **CS graduate** with hands-on experience shipping **real-world applications**—not just tutorials. I've built a full-stack Smart City complaint management system deployed on Render, a secure Notes app with session handling, and a playable Ping Pong game. I solve problems with clean, structured code and I'm ready to make an impact as a junior backend or web developer.
