@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,32&height=220&section=header&text=JOTHI%20KRISHNA%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Web%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Full-Stack&descAlignY=55&descSize=18"/>
-</div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Creating+secure+and+scalable+backends;Turning+ideas+into+working+solutions;CS+Graduate+from+Al-Ameen+Engineering" alt="Typing Animation" />
